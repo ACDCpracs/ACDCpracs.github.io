@@ -1,4 +1,12 @@
 baseURL = "http://example.org/"
-languageCode = "en-us"
-title = "My New Hugo Site"
+languageCode = "es"
+defaultcontentlanguaje = "es"
+title = "High Way to MEM"
 theme = "hugo.386"
+
+[params]
+	author = "ACDCpracs"
+	description = "Página web del grupo de prácticas ACDC de la Universidad de Alicante(UA) para la asignatura Arquitectura de los Computadores. Hecha con ganas,  sirve al fin de compartir nuestra información y trabajo con el resto del mundo"
+	keywords = "blog,developer,computer,learning,groupal,UA,Universidad de Alicante,prácticas,AC,Arquitectura de los computadores"
+	info = "Pagina web con el fin de testear tecnologías y compartir información más facilmente"
+	avatarurl = "images/favicon.ico"
