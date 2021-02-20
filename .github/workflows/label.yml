@@ -5,15 +5,17 @@
 # file with configuration.  For more information, see:
 # https://github.com/actions/labeler
 
-name: Labeler
-on: [pull_request]
-
+name: "Pull Request Labeler"
+on:
+  pull_request:
+    branches:
+      - test-*
 jobs:
-  label:
-
-    runs-on: ubuntu-latest
-
+  label_pull_request:
+    name: label the pull requests
+    runs-on: ubuntu-18.04
     steps:
-    - uses: actions/labeler@v2
-      with:
-        repo-token: "${{ secrets.GITHUB_TOKEN }}"
+      - uses: actions/labeler@main
+        with:
+          repo-token: "${{ secrets.GITHUB_TOKEN }}"
+      
