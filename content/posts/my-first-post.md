@@ -15,7 +15,7 @@ Este grupo pertenece a la asignatura Arquitectura de los Computadores de la Univ
   
 Nuestros integrantes son:  
 
-* Ángela Pavía Belver  
+* Angela Pavía Belver  
   
 * Alberto Campillo Such
   
@@ -40,3 +40,6 @@ Desarrollaremos esta actividad por partes. Ahora selecciona que parte quieres co
 * Fase 2  
   
 * Fase 3  
+
+
+---
