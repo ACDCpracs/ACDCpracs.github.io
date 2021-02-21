@@ -1,6 +1,9 @@
 name: github pages
 
 on:
+  page_build:
+    branches:
+      - main
   push:
     branches:
       - main  # Set a branch to deploy
