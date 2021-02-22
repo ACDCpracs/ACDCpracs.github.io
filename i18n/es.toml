@@ -1,0 +1,20 @@
+[home]
+other = "Inicio"
+
+[posts]
+other = "Páginas"
+
+[postslist]
+other = "Índice"
+
+[categories]
+other = "Categorías"
+
+[tags]
+other = "Etiquetas"
+
+[backtohome]
+other = "Vuelve al Inicio"
+
+[builton]
+other = "Construido con"

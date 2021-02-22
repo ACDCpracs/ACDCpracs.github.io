@@ -1,12 +1,78 @@
 baseURL = "http://acdcpracs.github.io/"
 languageCode = "es"
-defaultcontentlanguaje = "es"
-title = "High Way to MEM"
+DefaultContentLanguaje = "es"
 theme = "hugo.386"
+title = "Highway to MEM"
 
 [params]
 	author = "ACDCpracs"
-	description = "Página web del grupo de prácticas ACDC de la Universidad de Alicante(UA) para la asignatura Arquitectura de los Computadores. Hecha con ganas,  sirve al fin de compartir nuestra información y trabajo con el resto del mundo"
+	description = "Página web del grupo de prácticas ACDC de la Universidad de Alicante(UA) para la asignatura Arquitectura de los Computadores. Hecha con ganas,  sirve al fin de compartir nuestra información y trabajo con el resto del mundo."
 	keywords = "blog,developer,computer,learning,groupal,UA,Universidad de Alicante,prácticas,AC,Arquitectura de los computadores"
 	info = "Pagina web con el fin de testear tecnologías y compartir información más facilmente"
 	avatarurl = "images/favicon.ico"
+	mainpagetitle = "Highway The MEM!"
+	mainpagesubtitle = "Welcom to the lower rings of Memory!"
+	mainpagedesc = "Página web del grupo de prácticas ACDC de la Universidad de Alicante(UA) para la asignatura Arquitectura de los Computadores. Hecha con ganas,  sirve al fin de compartir nuestra información y trabajo con el resto del mundo."
+	copyrightname = ""
+	copyrighturl = "https://acdc-ua.github.io"
+	showhugo = "flase"
+	github = "https://github.com/acdc-ua"
+	twitter = ""
+	# Enables or disables the loading animations. false activates them. Default is false.
+	loadfastload = "false"
+	# Sets the speed for the page loading effect. Default is 1.0.
+	loadspeedfactor = 1.0
+	# Enables or disables the second flyby cursor. Default is false.
+	loadonepass = "true"
+
+[params.copyright]
+    name = "ACDC UA PROJECT"
+    url = "https://acdc-ua.github.io"
+    prefix = "[Web by ACDC team](https://acdc-ua.github.io)"
+	suffix = "Expositor de trabajo"
+
+[menu]
+  # This displays buttons in the navbar to access your contents
+  [[menu.main]]
+    identifier = "about" # An unique identifier for the button
+    name = "Acerca de"       # A display name for the button
+    url = "/about/"      # The path to the content. It can lead to a single page (like here)
+    weight = 10          # A number to order the buttons in the navbar
+
+  [[menu.main]]
+    identifier = "posts"
+    name = "Páginas"
+    url = "/post/"       # The path can lead to a content folder too.
+    weight = 20
+
+[taxonomies]
+category = "categories"
+tag = "tags"
+
+
+[privacy]
+
+  [privacy.vimeo]
+    disabled = false
+    simple = true
+
+  [privacy.twitter]
+    disabled = false
+    enableDNT = true
+    simple = true
+
+  [privacy.instagram]
+    disabled = false
+    simple = true
+
+  [privacy.youtube]
+    disabled = false
+    privacyEnhanced = true
+
+[services]
+
+  [services.instagram]
+    disableInlineCSS = true
+
+  [services.twitter]
+    disableInlineCSS = true
