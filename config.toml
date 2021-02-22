@@ -17,7 +17,7 @@ title = "Highway to MEM"
 	copyrighturl = "https://acdc-ua.github.io"
 	showhugo = "flase"
 	github = "https://github.com/acdc-ua"
-	twitter = ""
+	twitter = "@ACDCpracs"
 	# Enables or disables the loading animations. false activates them. Default is false.
 	loadfastload = "false"
 	# Sets the speed for the page loading effect. Default is 1.0.
