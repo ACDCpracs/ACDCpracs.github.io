@@ -15,7 +15,7 @@ title = "Highway to MEM"
 	mainpagedesc = "Página web del grupo de prácticas ACDC de la Universidad de Alicante(UA) para la asignatura Arquitectura de los Computadores. Hecha con ganas,  sirve al fin de compartir nuestra información y trabajo con el resto del mundo."
 	copyrightname = "ACDC-UA-PROJECT"
 	copyrighturl = "https://acdc-ua.github.io"
-	showhugo = flase
+	#showhugo = flase
 	github = "https://github.com/acdc-ua"
 	twitter = "@ACDCpracs"
 	# Enables or disables the loading animations. false activates them. Default is false.
