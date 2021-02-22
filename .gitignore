@@ -1,5 +1,5 @@
 # Ignoring public/ since docs/ is the new building directory -- also github actions rebuilds public/
-public/*
+
 *.save
 
 
