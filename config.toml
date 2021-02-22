@@ -10,20 +10,20 @@ title = "Highway to MEM"
 	keywords = "blog,developer,computer,learning,groupal,UA,Universidad de Alicante,prácticas,AC,Arquitectura de los computadores"
 	info = "Pagina web con el fin de testear tecnologías y compartir información más facilmente"
 	avatarurl = "images/favicon.ico"
-	mainpagetitle = "Highway The MEM!"
+	mainpagetitle = "Highway to MEM!"
 	mainpagesubtitle = "Welcom to the lower rings of Memory!"
 	mainpagedesc = "Página web del grupo de prácticas ACDC de la Universidad de Alicante(UA) para la asignatura Arquitectura de los Computadores. Hecha con ganas,  sirve al fin de compartir nuestra información y trabajo con el resto del mundo."
-	copyrightname = ""
+	copyrightname = "ACDC-UA-PROJECT"
 	copyrighturl = "https://acdc-ua.github.io"
-	showhugo = "flase"
+	showhugo = flase
 	github = "https://github.com/acdc-ua"
 	twitter = "@ACDCpracs"
 	# Enables or disables the loading animations. false activates them. Default is false.
-	loadfastload = "false"
+	loadfastload = false
 	# Sets the speed for the page loading effect. Default is 1.0.
 	loadspeedfactor = 1.0
 	# Enables or disables the second flyby cursor. Default is false.
-	loadonepass = "true"
+	loadonepass = true
 
 [params.copyright]
     name = "ACDC UA PROJECT"
