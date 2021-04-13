@@ -3,7 +3,7 @@ title: "About"
 date: 2021-02-22T02:49:34+01:00
 draft: false
 description: "Acdc - Grupo de practicas de la UA"
-aliases: ["about-us","contact"]
+aliases: ["about-us","contact","about"]
 author: "mmorales99"
 categories: ["Acerca de nosotros",] 
 tags : ["about-us"]
