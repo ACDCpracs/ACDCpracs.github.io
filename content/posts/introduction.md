@@ -1,8 +1,8 @@
 ---
-title: "My First Post"
+title: "Pagina de Introduccion"
 draft: false
 tags : ["Introduction page"]
-categories: []
+categories: [General Info]
 ---
 
 # cout << Hola mundo cruel!! << endl;
