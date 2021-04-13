@@ -2,25 +2,31 @@
 title: "About"
 date: 2021-02-22T02:49:34+01:00
 draft: false
-description: "Hugo, the world’s fastest framework for building websites"
-aliases: ["about-us","about-hugo","contact"]
-author: "Hugo Authors"
+description: "Acdc - Grupo de practicas de la UA"
+aliases: ["about-us","contact"]
+author: "mmorales99"
+categories: ["Acerca de nosotros",] 
 ---
 
-Written in Go, Hugo is an open source static site generator available under the [Apache Licence 2.0.](https://github.com/gohugoio/hugo/blob/master/LICENSE) Hugo supports TOML, YAML and JSON data file types, Markdown and HTML content files and uses shortcodes to add rich content. Other notable features are taxonomies, multilingual mode, image processing, custom output formats, HTML/CSS/JS minification and support for Sass SCSS workflows.
+# <h1 align="center"> A C :zap: D C</h1>  
+  
+***
 
-Hugo makes use of a variety of open source projects including:
+### QUÉ ES ESTA ORGANIZACIÓN?  
 
-* https://github.com/yuin/goldmark
-* https://github.com/alecthomas/chroma
-* https://github.com/muesli/smartcrop
-* https://github.com/spf13/cobra
-* https://github.com/spf13/viper
+Esta organización la hemos usado para organizar y guardar copias versionadas del trabajo que llevamos a cabo durante el desarrollo de los ejercicios de la asignatura y demostrar el funcionamiento de github pages, un servicio que da github de manera gratuita para todos aquellos usuarios que tengan una cuenta en esta plataforma, y conocimientos de desarollo web para poder crear manualmente su fantástico sitio, donde poder pasar las horas muertas explicando lo mucho que les gusta programar o guardar archivos en la [___N.U.B.E.___](https://azure.microsoft.com/en-us/overview/what-is-the-cloud/ "Eso que se sabe que es pero que no se sabe que es pero es pero no.").  
 
-Hugo is ideal for blogs, corporate websites, creative portfolios, online magazines, single page applications or even a website with thousands of pages.
+Además, hemos revelado los secretos de github y sus repositorios. No todos los secretos son oscuros, algunos son obvios y los hemos dejado a la vista, otros están ocultos y jamás podrás verlos. Lo sentimos si te ha decepcionado no saber el secreto. 
 
-Hugo is for people who want to hand code their own website without worrying about setting up complicated runtimes, dependencies and databases.
 
-Websites built with Hugo are extremelly fast, secure and can be deployed anywhere including, AWS, GitHub Pages, Heroku, Netlify and any other hosting provider.
+---  
 
-Learn more and contribute on [GitHub](https://github.com/gohugoio).
+
+### QUÉ ES ESTO?  
+
+Aquí puedes encontrar todos los repositorios que hemos ido creando a medida que hemos ido haciendo las distintas fases de la asignatura.
+Hay 2 repositorios especiales..:
+
+1. ACDCpracs -> Contiene varios archivos como este README. Contendrá un archivo especificando cómo se han de hacer los commits y los cambios al código necesario; un archivo que contendrá el código de conducta de los contribuyentes a estos repositorios y documentación relativa al desarrollo del proyecto.
+
+2. ACDCpracs.github.io -> contiene las fuentes de la web que se publica bajo [este dominio](https://acdcpracs.github.io).
