@@ -6,6 +6,7 @@ description: "Acdc - FASE 2"
 aliases: ["practica2",]
 author: "mmorales99"
 categories: ["Practicas",] 
+tags: ["fases","fase2"]
 ---
 
 # FASE 2

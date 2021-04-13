@@ -6,6 +6,7 @@ description: "Acdc - Grupo de practicas de la UA"
 aliases: ["about-us","contact"]
 author: "mmorales99"
 categories: ["Acerca de nosotros",] 
+tags : ["about-us"]
 ---
 
 # <h1 align="center"> A C :zap: D C</h1>  

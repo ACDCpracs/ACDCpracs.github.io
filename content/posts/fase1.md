@@ -5,7 +5,8 @@ draft: false
 description: "Acdc - FASE 1"
 aliases: ["practica1",]
 author: "mmorales99"
-categories: ["Practicas",] 
+categories: ["Practicas",]  
+tags: ["fases","fase1"]
 ---
 
 # FASE 1
