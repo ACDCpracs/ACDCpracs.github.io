@@ -34,10 +34,10 @@ En esta asignatura tendremos que desarrollar un corpus de ejercicios prácticos 
   
 Desarrollaremos esta actividad por partes. Ahora selecciona que parte quieres consultar:  
   
-* Fase 1  
+* [Fase 1](https://acdcpracs.github.io/posts/fase1/)  
   
-* Fase 2  
+* [Fase 2](https://acdcpracs.github.io/posts/fase2/)  
   
-* Fase 3  
+* [Fase 3](https://acdcpracs.github.io/posts/fase3/)  
 
 ---
